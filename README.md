@@ -230,6 +230,14 @@ Join the Word Cloud Board :cloud: :pencil2:
 Athena OS</a>
 </h1>
 <p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-CD8335">
+  <img src="https://badgen.net/github/release/Athena-OS/athena-iso">
+  <img src="https://badgen.net/github/stars/Athena-OS/athena-iso">
+  <img src="https://img.shields.io/github/issues-raw/Athena-OS/athena-iso">
+  <img src="https://img.shields.io/github/issues-closed-raw/Athena-OS/athena-iso">
+  <img src="https://img.shields.io/github/license/Athena-OS/athena-iso">
+</p>
+<p align="center">
   <img src="https://user-images.githubusercontent.com/83867734/174499581-e0f74d41-36ce-4c01-af0d-6ecd98841a64.png" data-canonical-src="https://user-images.githubusercontent.com/83867734/174499581-e0f74d41-36ce-4c01-af0d-6ecd98841a64.png" width="600" height="496" />
 </p>
 
