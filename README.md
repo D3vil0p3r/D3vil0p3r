@@ -257,9 +257,9 @@ Athena OS</a>
 
 &nbsp;
 
-<!--🤔INTERESTTITLE-->
+<!--🤔INTERESTTITLE Used https://textanim.com/ with font PressStart2P-Regular-->
 <p align="center">
-<img src="https://i.imgur.com/ozEwbHs.gif">
+<img src="https://i.im.ge/2022/09/06/ORK2xF.RmLBrhsx.gif">
 <!--🖼️🖼️INTERSTLOGOS-->
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="60">
