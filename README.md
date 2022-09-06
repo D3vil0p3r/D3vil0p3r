@@ -223,7 +223,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 
 <!--🤔PROJECTSTITLE Used https://textanim.com/ with font PressStart2P-Regular-->
 <p align="center">
-<img src="https://i.im.ge/2022/09/06/ORKofa.uncw70hQ.gif">
+<img src="https://i.ibb.co/QPmHs8r/projects.gif">
 
 <!--🤔ATHENA-->
 <h1 align="center"><a href="https://github.com/Athena-OS/athena-iso">Dive into a new Pentesting Experience with<br>
@@ -267,7 +267,7 @@ Athena OS</a>
 
 <!--🤔INTERESTTITLE Used https://textanim.com/ with font PressStart2P-Regular-->
 <p align="center">
-<img src="https://i.im.ge/2022/09/06/ORK2xF.RmLBrhsx.gif">
+<img src="https://i.ibb.co/Vvn7t4z/interests.gif">
 <!--🖼️🖼️INTERSTLOGOS-->
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="60">
