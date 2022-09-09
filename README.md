@@ -1,6 +1,6 @@
 <!--### Hi there 👋 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BD3vil0per%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;D3vil0per%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BD3vil0p3r%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;D3vil0p3r%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;)](https://git.io/typing-svg)
 
 &nbsp;
 <!--💬GREETINGSTITLE / FONTS: https://www.thefancytext.com/ and then paste on 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
@@ -22,11 +22,11 @@
   
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=D3vil0per&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=D3vil0per&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats.vercel.app/api?username=D3vil0p3r&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=D3vil0p3r&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
   
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3vil0per&layout=compact&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3vil0p3r&layout=compact&theme=merko">
   
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Athena-OS&repo=athena-iso&theme=merko">
@@ -38,10 +38,10 @@
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
   
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/D3vil0per/D3vil0per/output/github-contribution-grid-snake.svg" width="100%">
+<img src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" width="100%">
   
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
-<img src="https://activity-graph.herokuapp.com/graph?username=D3vil0per&theme=chartreuse-dark" width="100%">
+<img src="https://activity-graph.herokuapp.com/graph?username=D3vil0p3r&theme=chartreuse-dark" width="100%">
   
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 <!--<h4 align="right">
