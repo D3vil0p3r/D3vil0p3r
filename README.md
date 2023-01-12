@@ -22,14 +22,14 @@
   
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=D3vil0p3r&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=D3vil0p3r&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=D3vil0p3r&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=D3vil0p3r&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
   
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3vil0p3r&layout=compact&theme=merko">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=D3vil0p3r&layout=compact&theme=merko">
   
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Athena-OS&repo=athena-iso&theme=merko">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Athena-OS&repo=athena-iso&theme=merko">
 
 &nbsp;
   
