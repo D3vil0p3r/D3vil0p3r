@@ -250,7 +250,7 @@ Athena OS</a>
 <h3 align="center">
   💞
   <a href="https://github.com/Athena-OS/athena-iso/releases/latest">
-  Download Athena OS "Promachos" Now
+  Download Athena OS "Parthenos" Now
     </a>
   💞
 </h3>
