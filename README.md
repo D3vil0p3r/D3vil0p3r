@@ -41,7 +41,7 @@
 <img src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" width="100%">
   
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
-<img src="https://activity-graph.herokuapp.com/graph?username=D3vil0p3r&theme=chartreuse-dark" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=D3vil0p3r&theme=chartreuse-dark" width="100%">
   
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 <!--<h4 align="right">
