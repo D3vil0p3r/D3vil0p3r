@@ -253,8 +253,8 @@ Athena OS</a>
 
 <h3 align="center">
   💞
-  <a href="https://github.com/Athena-OS/athena-nix/releases/latest">
-  Download Athena OS "Parthenos" Now
+  <a href="https://github.com/Athena-OS/athena-nix/releases">
+  Download Athena OS "Nyx" Now
     </a>
   💞
 </h3>
