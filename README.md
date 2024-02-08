@@ -29,7 +29,7 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=D3vil0p3r&layout=compact&theme=merko">
   
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Athena-OS&repo=athena-iso&theme=merko">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Athena-OS&repo=athena-nix&theme=merko">
 
 &nbsp;
   
@@ -230,17 +230,17 @@ Join the Word Cloud Board :cloud: :pencil2:
 <img src="https://i.ibb.co/QPmHs8r/projects.gif">
 
 <!--🤔ATHENA-->
-<h1 align="center"><a href="https://github.com/Athena-OS/athena-iso">Dive into a new Pentesting Experience with<br>
+<h1 align="center"><a href="https://github.com/Athena-OS/athena-nix">Dive into a new Pentesting Experience with<br>
 Athena OS</a>
 </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-CD8335">
-  <img src="https://badgen.net/github/release/Athena-OS/athena-iso">
-  <a href="https://sourceforge.net/projects/athena-iso/files/latest/download"><img alt="Download Athena OS" src="https://img.shields.io/sourceforge/dt/athena-iso.svg" ></a>
-  <img src="https://badgen.net/github/stars/Athena-OS/athena-iso">
-  <img src="https://img.shields.io/github/issues-raw/Athena-OS/athena-iso">
-  <img src="https://img.shields.io/github/issues-closed-raw/Athena-OS/athena-iso">
-  <img src="https://img.shields.io/github/license/Athena-OS/athena-iso">
+  <img src="https://badgen.net/github/release/Athena-OS/athena-nix">
+  <a href="https://sourceforge.net/projects/athena-nix/files/latest/download"><img alt="Download Athena OS" src="https://img.shields.io/sourceforge/dt/athena-nix.svg" ></a>
+  <img src="https://badgen.net/github/stars/Athena-OS/athena-nix">
+  <img src="https://img.shields.io/github/issues-raw/Athena-OS/athena-nix">
+  <img src="https://img.shields.io/github/issues-closed-raw/Athena-OS/athena-nix">
+  <img src="https://img.shields.io/github/license/Athena-OS/athena-nix">
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/83867734/174499581-e0f74d41-36ce-4c01-af0d-6ecd98841a64.png" data-canonical-src="https://user-images.githubusercontent.com/83867734/174499581-e0f74d41-36ce-4c01-af0d-6ecd98841a64.png" width="600" height="496" />
@@ -253,7 +253,7 @@ Athena OS</a>
 
 <h3 align="center">
   💞
-  <a href="https://github.com/Athena-OS/athena-iso/releases/latest">
+  <a href="https://github.com/Athena-OS/athena-nix/releases/latest">
   Download Athena OS "Parthenos" Now
     </a>
   💞
