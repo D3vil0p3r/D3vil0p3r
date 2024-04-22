@@ -235,12 +235,22 @@ Athena OS</a>
 </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-CD8335">
-  <img src="https://badgen.net/github/release/Athena-OS/athena-nix">
-  <a href="https://sourceforge.net/projects/athena-nix/files/latest/download"><img alt="Download Athena OS" src="https://img.shields.io/sourceforge/dt/athena-nix.svg" ></a>
-  <img src="https://badgen.net/github/stars/Athena-OS/athena-nix">
-  <img src="https://img.shields.io/github/issues-raw/Athena-OS/athena-nix">
-  <img src="https://img.shields.io/github/issues-closed-raw/Athena-OS/athena-nix">
-  <img src="https://img.shields.io/github/license/Athena-OS/athena-nix">
+  <img src="https://badgen.net/github/release/Athena-OS/athena">
+  <a href="https://sourceforge.net/projects/athena-iso/files/latest/download"><img alt="Download Athena OS" src="https://img.shields.io/sourceforge/dt/athena-iso?style=flat&logo=sourceforge&label=SourceForge" ></a>
+  <a href="https://github.com/Athena-OS/athena/releases"><img alt="Download Athena OS" src="https://img.shields.io/github/downloads/Athena-OS/athena/total?style=flat&logo=github&label=GitHub"></a>
+  <img src="https://badgen.net/github/stars/Athena-OS/athena">
+  <img src="https://img.shields.io/github/issues-raw/Athena-OS/athena">
+  <img src="https://img.shields.io/github/issues-closed-raw/Athena-OS/athena">
+  <img src="https://img.shields.io/github/license/Athena-OS/athena">
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/athenaos_sec">
+    <img src="https://img.shields.io/badge/Follow%20us%20on%20Instagram-Ya?logo=instagram&logoColor=white&color=%23e95950&style=['for-the-badge']&url=https://www.instagram.com/athenaos_sec">
+    </a>
+  <a href="https://discord.gg/AHXqyJHhGc">
+    <img src="https://img.shields.io/badge/Join%20on%20Discord-Ya?logo=discord&logoColor=white&color=%235865F2&style=['for-the-badge']&url=https://discord.gg/AHXqyJHhGc">
+  </a>
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/83867734/174499581-e0f74d41-36ce-4c01-af0d-6ecd98841a64.png" data-canonical-src="https://user-images.githubusercontent.com/83867734/174499581-e0f74d41-36ce-4c01-af0d-6ecd98841a64.png" width="600" height="496" />
