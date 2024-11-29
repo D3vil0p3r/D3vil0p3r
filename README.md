@@ -6,7 +6,8 @@
 <!--💬GREETINGSTITLE / FONTS: https://www.thefancytext.com/ and then paste on 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=27F76A&width=360&lines=%E2%96%91A%E2%96%91C%E2%96%91C%E2%96%91E%E2%96%91S%E2%96%91S%E2%96%91+%E2%96%91G%E2%96%91A%E2%96%91I%E2%96%91N%E2%96%91E%E2%96%91D%E2%96%91">
-  
+
+[![My Skills](https://skillicons.dev/icons?i=arch,azure,bash,c,cs,cpp,debian,docker,github,githubactions,latex,linux,md,mysql,neovim,nix,ps,powershell,py,rust,visualstudio,vscode,vscodium,windows)](https://skillicons.dev)
 
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <!-- <p align="center">
@@ -281,9 +282,12 @@ Athena OS</a>
 &nbsp;
 
 <!--🤔INTERESTTITLE Used https://textanim.com/ with font PressStart2P-Regular-->
+<!--
 <p align="center">
 <img src="https://i.ibb.co/Vvn7t4z/interests.gif">
+-->
 <!--🖼️🖼️INTERSTLOGOS-->
+<!--
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="60">
@@ -299,7 +303,7 @@ Athena OS</a>
 <img src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" width="60">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
 <img src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-icon.svg" width="60">
-
+-->
 </h4>
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
