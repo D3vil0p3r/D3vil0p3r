@@ -7,7 +7,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=27F76A&width=360&lines=%E2%96%91A%E2%96%91C%E2%96%91C%E2%96%91E%E2%96%91S%E2%96%91S%E2%96%91+%E2%96%91G%E2%96%91A%E2%96%91I%E2%96%91N%E2%96%91E%E2%96%91D%E2%96%91">
 
-[![My Skills](https://skillicons.dev/icons?i=arch,azure,bash,c,cs,cpp,debian,docker,github,githubactions,kali,latex,linux,md,mysql,neovim,nix,ps,powershell,py,rust,visualstudio,vscode,vscodium,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,azure,bash,c,cs,cpp,debian,docker,git,github,githubactions,kali,latex,linux,md,mysql,neovim,nix,ps,powershell,py,rust,vim,visualstudio,vscode,vscodium,windows)](https://skillicons.dev)
 
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <!-- <p align="center">
