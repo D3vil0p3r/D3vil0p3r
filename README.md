@@ -231,13 +231,12 @@ Join the Word Cloud Board :cloud: :pencil2:
 <img src="https://i.ibb.co/QPmHs8r/projects.gif">
 
 <!--🤔ATHENA-->
-<h1 align="center"><a href="https://github.com/Athena-OS/athena-nix">Dive into a new Pentesting Experience with<br>
+<h1 align="center"><a href="https://github.com/Athena-OS/athena">Dive into a new Pentesting Experience with<br>
 Athena OS</a>
 </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-CD8335">
   <img src="https://badgen.net/github/release/Athena-OS/athena">
-  <a href="https://sourceforge.net/projects/athena-iso/files/latest/download"><img alt="Download Athena OS" src="https://img.shields.io/sourceforge/dt/athena-iso?style=flat&logo=sourceforge&label=SourceForge" ></a>
   <a href="https://github.com/Athena-OS/athena/releases"><img alt="Download Athena OS" src="https://img.shields.io/github/downloads/Athena-OS/athena/total?style=flat&logo=github&label=GitHub"></a>
   <img src="https://badgen.net/github/stars/Athena-OS/athena">
   <img src="https://img.shields.io/github/issues-raw/Athena-OS/athena">
